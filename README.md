@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mochilattez808
-- 👀 I’m interested in programming, DUH
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on nothing rn
-- 📫 How to reach me interactive learning lol
+- 👀 I’m interested in: programming, DUH
+- 🌱 I’m currently learning: C++, HTML, CSS, JavaScript, SQL, and Python
+- 💞️ I’m looking to collaborate on: nothing rn
+- 📫 How to reach me: ig (amalee_0806)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: im 14 :)
 
